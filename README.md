@@ -1,2 +1,1 @@
-FILE EXCEL HASIL ANALISI PERIHAL TUGAS BESAR MATA PERKULIAHAN PROBABILITAS DAN STATISTIKA 
-File excel tersebut adalah file hasil analisis durasi peminjaman ruangan pada gedung Griya Legita di Universitas Pertamina
+File excel hasil analisis perihal tugas besar mata perkuliahan Probabilitas dan Statistika berjudul "Analisis Durasi Peminjaman Ruangan pada Gedung Griya Legita"
